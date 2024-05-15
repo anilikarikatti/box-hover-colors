@@ -1,7 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
 
-import {ColorHover} from "./"
+import ColorHover from "./colorHover.js"
 
 
 function App() {
