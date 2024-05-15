@@ -1,0 +1,22 @@
+.container{
+    height: 100vh;
+    width: 100vw;
+    overflow-y: scroll;
+    background-color: gray;
+    display: flex;
+    flex-wrap: wrap;
+
+}
+
+
+.box{
+    height:"30px";
+    width: 9.5%;
+    border: 2px solid black;
+
+}
+
+.a{
+    background: rgb(252,193,65);
+    background: linear-gradient(158deg, rgba(252,193,65,1) 2%, rgba(252,90,69,1) 97%);
+}
